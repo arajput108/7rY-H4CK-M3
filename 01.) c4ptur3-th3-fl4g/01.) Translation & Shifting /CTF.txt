@@ -14,4 +14,45 @@
 --> Each Base64 digit represents exactly 6 bits of data.
 
 5.) 68 65 78 61 64 65 63 69 6d 61 6c 20 6f 72 20 62 61 73 65 31 36 3f
---> hexadecimal or base16? (Using base16)
+--> hexadecimal or base16? (base16)
+
+6.) Ebgngr zr 13 cynprf!
+--> Rotate me 13 places! (ROT13)
+
+8.) 85 110 112 97 99 107 32 116 104 105 115 32 66 67 68
+--> Unpack this BCD (Hexadecmial)
+--> Your input (85 110 112 97 99 107 32 116 104 105 115 32 66 67 68) is decimal, not hexadecimal (base16). You need to 
+    convert these decimal values into hexadecimal first:
+ Use xxd to decode the hexadecimal string: echo "556e7061636b207468697320424344" | xxd -r -p
+ Explanation:
+-r: Tells xxd to reverse the process (from hex to ASCII).
+-p: Tells xxd to use plain hexadecimal input.
+
+
+
+
+
+
+<--------------------------Concepts--------------------------->
+1.) Base16 (Hexadecimal):
+    Only contains digits (0-9) and letters A-F (or a-f).
+    Typically used in computing, especially for representing binary data or memory 
+    addresses in human-readable form.
+
+2.) Base32:
+    Uses a 32-character set (A-Z, 2-7).
+    Less common but used in specific applications like QR codes or file encoding.
+
+3.) Base64:
+    Ends with = or == padding.
+    Characters include letters (A-Z, a-z), numbers (0-9), +, /, and sometimes =.
+    Useful for encoding binary data, often seen in web data transmission, email 
+    attachments, and image encoding.
+
+
+
+
+Tool to Identify or Test Encodings:
+1.) CyberChef 2.) Command-line tools
+
+
