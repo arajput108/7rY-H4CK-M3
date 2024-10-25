@@ -21,12 +21,9 @@
 
 8.) 85 110 112 97 99 107 32 116 104 105 115 32 66 67 68
 --> Unpack this BCD (Hexadecmial)
---> Your input (85 110 112 97 99 107 32 116 104 105 115 32 66 67 68) is decimal, not hexadecimal (base16). You need to 
-    convert these decimal values into hexadecimal first:
- Use xxd to decode the hexadecimal string: echo "556e7061636b207468697320424344" | xxd -r -p
- Explanation:
--r: Tells xxd to reverse the process (from hex to ASCII).
--p: Tells xxd to use plain hexadecimal input.
+
+9.) *@F DA:? >6 C:89E C@F?5 323J C:89E C@F?5 Wcf E:>6DX
+--> You spin me right round baby right round (47 times)
 
 
 
@@ -50,9 +47,28 @@
     attachments, and image encoding.
 
 
+Tool used:
+1.) CyberChef 2.) Command-line tools 3.) Dcode.fr
 
 
-Tool to Identify or Test Encodings:
-1.) CyberChef 2.) Command-line tools
+
+
+
+
+
+
+<--------------------------Explanation--------------------------->
+
+Q8.) *Your input (85 110 112 97 99 107 32 116 104 105 115 32 66 67 68) is decimal, not hexadecimal (base16). You need to 
+    convert these decimal values into hexadecimal first:
+    *Use xxd to decode the hexadecimal string: echo "556e7061636b207468697320424344" | xxd -r -p
+ Explanation:
+-r: Tells xxd to reverse the process (from hex to ASCII).
+-p: Tells xxd to use plain hexadecimal input.
+
+Q9.) In Hit & Trial, found at ROT47.
+
+
+
 
 
