@@ -1,0 +1,29 @@
+TeneBrae93[0xD][GOD]= https://tryhackme.com/r/p/TeneBrae93
+theritam[0x9][OMNI]=  https://tryhackme.com/r/p/theritam
+THM Base Room=        https://tryhackme.com/r/path/outline/cybersecurity101?utm_source=cio&utm_medium=email&utm_campaign=cs101
+Thehackr[0xC][GURU]= https://tryhackme.com/r/p/Thehackr
+vettrivel[0x6]= https://tryhackme.com/r/p/vettrivel
+
+<----------------------------STAFFS------------------------------------>
+
+3.) am03bam4n[STAFF]= https://tryhackme.com/r/p/am03bam4n
+2.) SecurityNomad[STAFF]= https://tryhackme.com/r/p/SecurityNomad
+1.) cmnatic[STAFF]= https://tryhackme.com/r/p/cmnatic
+ben[STAFF]Co-Founder= https://tryhackme.com/r/p/ben
+munra[STAFF]= https://tryhackme.com/r/p/munra
+strategos[STAFF]= https://tryhackme.com/r/p/strategos
+Dex01[STAFF]= https://tryhackme.com/r/p/Dex01
+timtaylor[STAFF]= https://tryhackme.com/r/p/timtaylor
+hk[STAFF]= https://tryhackme.com/r/p/hk
+strategos[STAFF]= https://tryhackme.com/r/p/strategos
+Maxablancas[STAFF]= https://tryhackme.com/r/p/Maxablancas
+1337rce[STAFF]= https://tryhackme.com/r/p/1337rce
+MartaStrzelec[STAFF]= https://tryhackme.com/r/p/MartaStrzelec
+h4sh3m00[STAFF]= https://tryhackme.com/r/p/h4sh3m00
+l000g1c[STAFF]= https://tryhackme.com/r/p/l000g1c
+str3g4tt4[STAFF]= https://tryhackme.com/r/p/str3g4tt4
+
+
+<----------------------------HACKER------------------------------------>
+
+1.) dcdavidlee[0x8]= https://tryhackme.com/r/p/dcdavidlee
