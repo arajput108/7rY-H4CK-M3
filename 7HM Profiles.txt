@@ -1,8 +1,7 @@
+<----------------------------GOD------------------------------------>
+MrSeth6797[0xD][GOD]= https://tryhackme.com/r/room/iotintro
 TeneBrae93[0xD][GOD]= https://tryhackme.com/r/p/TeneBrae93
-theritam[0x9][OMNI]=  https://tryhackme.com/r/p/theritam
-THM Base Room=        https://tryhackme.com/r/path/outline/cybersecurity101?utm_source=cio&utm_medium=email&utm_campaign=cs101
-Thehackr[0xC][GURU]= https://tryhackme.com/r/p/Thehackr
-vettrivel[0x6]= https://tryhackme.com/r/p/vettrivel
+
 
 <----------------------------STAFFS------------------------------------>
 
@@ -27,3 +26,11 @@ str3g4tt4[STAFF]= https://tryhackme.com/r/p/str3g4tt4
 <----------------------------HACKER------------------------------------>
 
 1.) dcdavidlee[0x8]= https://tryhackme.com/r/p/dcdavidlee
+
+
+
+
+theritam[0x9][OMNI]=  https://tryhackme.com/r/p/theritam
+THM Base Room=        https://tryhackme.com/r/path/outline/cybersecurity101?utm_source=cio&utm_medium=email&utm_campaign=cs101
+Thehackr[0xC][GURU]= https://tryhackme.com/r/p/Thehackr
+vettrivel[0x6]= https://tryhackme.com/r/p/vettrivel
