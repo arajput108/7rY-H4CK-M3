@@ -21,7 +21,7 @@ MartaStrzelec[STAFF]= https://tryhackme.com/r/p/MartaStrzelec
 h4sh3m00[STAFF]= https://tryhackme.com/r/p/h4sh3m00
 l000g1c[STAFF]= https://tryhackme.com/r/p/l000g1c
 str3g4tt4[STAFF]= https://tryhackme.com/r/p/str3g4tt4
-
+cmnatic[STAFF]= https://tryhackme.com/r/p/cmnatic
 
 <----------------------------HACKER------------------------------------>
 
