@@ -22,7 +22,7 @@ h4sh3m00[STAFF]= https://tryhackme.com/r/p/h4sh3m00
 l000g1c[STAFF]= https://tryhackme.com/r/p/l000g1c
 str3g4tt4[STAFF]= https://tryhackme.com/r/p/str3g4tt4
 cmnatic[STAFF]= https://tryhackme.com/r/p/cmnatic
-
+rePl4stic[STAFF]= https://tryhackme.com/r/p/rePl4stic
 <----------------------------HACKER------------------------------------>
 
 1.) dcdavidlee[0x8]= https://tryhackme.com/r/p/dcdavidlee
