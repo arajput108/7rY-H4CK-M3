@@ -1,3 +1,7 @@
+<-----------------------TRYHACKME----------------------------------->
+tryhackme= https://tryhackme.com/r/p/tryhackme 
+(All the rooms and resources are here)
+
 <----------------------------GOD------------------------------------>
 MrSeth6797[0xD][GOD]= https://tryhackme.com/r/p/MrSeth6797
 TeneBrae93[0xD][GOD]= https://tryhackme.com/r/p/TeneBrae93
