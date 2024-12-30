@@ -34,7 +34,7 @@ MartaStrzelec[STAFF]= https://tryhackme.com/r/p/MartaStrzelec
 
 
 
-
+Chevalier[BUG HUNTER]= https://tryhackme.com/r/p/Chevalier
 theritam[0x9][OMNI]=  https://tryhackme.com/r/p/theritam
 THM Base Room=        https://tryhackme.com/r/path/outline/cybersecurity101?utm_source=cio&utm_medium=email&utm_campaign=cs101
 Thehackr[0xC][GURU]= https://tryhackme.com/r/p/Thehackr
