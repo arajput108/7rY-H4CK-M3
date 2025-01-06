@@ -37,8 +37,8 @@ MartaStrzelec[STAFF]= https://tryhackme.com/r/p/MartaStrzelec
 
 1.) dcdavidlee[0x8]= https://tryhackme.com/r/p/dcdavidlee
 
-
-
+<----------------------------Rest------------------------------------>
+josemlwdf[0x6]= https://tryhackme.com/r/p/josemlwdf
 Chevalier[BUG HUNTER]= https://tryhackme.com/r/p/Chevalier
 theritam[0x9][OMNI]=  https://tryhackme.com/r/p/theritam
 THM Base Room=        https://tryhackme.com/r/path/outline/cybersecurity101?utm_source=cio&utm_medium=email&utm_campaign=cs101
