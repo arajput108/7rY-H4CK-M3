@@ -45,3 +45,4 @@ Thehackr[0xC][GURU]= https://tryhackme.com/r/p/Thehackr
 vettrivel[0x6]= https://tryhackme.com/r/p/vettrivel
 DarkStar7471[0x7]= https://tryhackme.com/r/p/DarkStar7471
 josemlwdf[0x6]= https://tryhackme.com/r/p/josemlwdf
+stregatta[0x5]= https://tryhackme.com/r/p/stregatta
