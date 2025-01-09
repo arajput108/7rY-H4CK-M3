@@ -49,3 +49,6 @@ josemlwdf[0x6]= https://tryhackme.com/r/p/josemlwdf
 stregatta[0x5]= https://tryhackme.com/r/p/stregatta
 juikalan[0x9][OMNI]= https://tryhackme.com/r/p/juikalan
 [Kalighost404[0xC][GURU]= https://tryhackme.com/r/p/Kalighost404
+ghoatvj[0xC][GURU]= https://tryhackme.com/r/p/ghoatvj
+addy04[0xB][MASTER]= https://tryhackme.com/r/p/addy04
+shriyac04[0x7]= https://tryhackme.com/r/p/shriyac04
