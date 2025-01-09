@@ -33,9 +33,10 @@ MartaStrzelec[STAFF]= https://tryhackme.com/r/p/MartaStrzelec
 1.) toxicat0r[0xB][MASTER]= https://tryhackme.com/r/p/toxicat0r
 
 
-<----------------------------HACKER------------------------------------>
+<----------------------------[0x8] HACKER------------------------------------>
 
 1.) dcdavidlee[0x8]= https://tryhackme.com/r/p/dcdavidlee
+2.) nahamsec[0x8][HACKER]= https://tryhackme.com/r/p/nahamsec
 
 <----------------------------Rest------------------------------------>
 Chevalier[BUG HUNTER]= https://tryhackme.com/r/p/Chevalier
@@ -46,3 +47,5 @@ vettrivel[0x6]= https://tryhackme.com/r/p/vettrivel
 DarkStar7471[0x7]= https://tryhackme.com/r/p/DarkStar7471
 josemlwdf[0x6]= https://tryhackme.com/r/p/josemlwdf
 stregatta[0x5]= https://tryhackme.com/r/p/stregatta
+juikalan[0x9][OMNI]= https://tryhackme.com/r/p/juikalan
+[Kalighost404[0xC][GURU]= https://tryhackme.com/r/p/Kalighost404
