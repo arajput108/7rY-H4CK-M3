@@ -6,9 +6,17 @@ Here(https://www.osintcurio.us/2019/12/20/google-dorks/) is a short introduction
 
 When geolocating a picture finding the exact location is key, but we may need to answer other questions about the location or the image as well, usually referred to as context questions.
 
-The next few challenges will ask multiple questions that you need to answer based on the information you extract from the image. 
+The next few challenges will ask multiple questions that you need to answer based on the information you extract from the image. (https://github.com/arajput108/7rY-H4CK-M3/blob/main/03.)%20Searchlight%20-%20IMINT/ii.)%20Just%20Google%20it!/task3_1602089306375.jpg)
 
 Answer the questions below:
 i.) Which city is the tube station located in?
 Ans: sl{london}
 
+ii.) Which tube station do these stairs lead to?
+Ans: sl{piccadilly circus}
+
+iii.) Which year did this station open?
+Ans: sl{1906}
+
+iv.) How many platforms are there in this station?
+Ans: sl{4}
