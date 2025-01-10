@@ -4,19 +4,25 @@ A friend of mine contacted me asking if I could help them locate a coffee shop t
 lunch there is. They told me the coffee shop is somewhere in Scotland, and he sent me these two pictures. Do you 
 think you could locate it and answer the questions below for me?
 
-Answer the questions below:
+Img1= [ https://github.com/arajput108/7rY-H4CK-M3/blob/main/03.)%20Searchlight%20-%20IMINT/iv.)%20Coffee%20and%20a%20light%20lunch/task5_1602347907147.jpg ]
 
-1.) Which city is this coffee shop located in?
+Img2= [ https://github.com/arajput108/7rY-H4CK-M3/blob/main/03.)%20Searchlight%20-%20IMINT/iv.)%20Coffee%20and%20a%20light%20lunch/xU1qXO9.png ]
+
+
+
+Answer the questions below:- 
+
+i.) Which city is this coffee shop located in?
 Ans: sl{blairgowrie}
 
-2.) Which street is this coffee shop located in?
+ii.) Which street is this coffee shop located in?
 Ans: sl{allan street}
 
-3.) What is their phone number?
+iii.) What is their phone number?
 Ans: sl{+447878 839128}
 
-4.) What is their email address?
+iv.) What is their email address?
 Ans: sl{theweecoffeeshop@aol.com}
 
-5.) What is the surname of the owners?
+v.) What is the surname of the owners?
 Ans: sl{cochrane}
