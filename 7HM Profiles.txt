@@ -54,3 +54,4 @@ addy04[0xB][MASTER]= https://tryhackme.com/r/p/addy04
 shriyac04[0x7]= https://tryhackme.com/r/p/shriyac04
 bee[0x1]= https://tryhackme.com/r/p/bee
 r1pp3r6944[0xD][LEGEND]= https://tryhackme.com/r/p/r1pp3r6944
+cyberpancho[0x9][OMNI]= https://tryhackme.com/r/p/cyberpancho
