@@ -1,1 +1,14 @@
+The last challenge wasn't really a challenge, was it? 
+
+Let me introduce you to your first tool, Google! If you see anything in the image that can be extracted into a keyword, phrase, a company name, telephone number or any other question you may have as a result of scanning the image up and down: GOOGLE IT!
+
+Here(https://www.osintcurio.us/2019/12/20/google-dorks/) is a short introduction to what we call 'dorking', the art of using Google search queries to have Google return specific types of data. The next challenges will require you to do some basic Googling in order to answer the questions. You can also practice dorking by joining the Google Dorking room (https://tryhackme.com/r/room/googledorking).
+
+When geolocating a picture finding the exact location is key, but we may need to answer other questions about the location or the image as well, usually referred to as context questions.
+
+The next few challenges will ask multiple questions that you need to answer based on the information you extract from the image. 
+
+Answer the questions below:
+i.) Which city is the tube station located in?
+Ans: sl{london}
 
