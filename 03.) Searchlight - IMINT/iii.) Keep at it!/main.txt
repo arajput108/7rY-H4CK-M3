@@ -3,7 +3,8 @@ Good job solving the last challenge! You were able to find the location of the i
 Scan the image for data and remember the questions from the introduction - Do you see anything in the image that can be used in a search query or help you narrow down the potential location?
 Img loc: [https://github.com/arajput108/7rY-H4CK-M3/blob/main/03.)%20Searchlight%20-%20IMINT/iii.)%20Keep%20at%20it!/task4_1603353588780.jpg]
 
-Answer the questions below
+
+Answer the questions below:- 
 i.) Which building is this photo taken in?
 Ans: sl{vancouver international airport}
 
