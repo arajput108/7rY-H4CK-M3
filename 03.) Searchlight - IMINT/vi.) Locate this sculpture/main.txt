@@ -2,6 +2,9 @@ This challenge will require you to apply some the techniques I have touched on s
 image for visual clues, reverse image searching and Google dorking. Tools should not be your primary 
 focus - don't underestimate how far you can get with dorking and scrolling search results. 
 
+Img1= https://github.com/arajput108/7rY-H4CK-M3/blob/main/03.)%20Searchlight%20-%20IMINT/vi.)%20Locate%20this%20sculpture/task7_1602636111226.png
+
+Img2= 
 
 Answer the questions below:
 
