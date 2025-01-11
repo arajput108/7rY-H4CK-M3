@@ -4,14 +4,14 @@ focus - don't underestimate how far you can get with dorking and scrolling searc
 
 Img1= https://github.com/arajput108/7rY-H4CK-M3/blob/main/03.)%20Searchlight%20-%20IMINT/vi.)%20Locate%20this%20sculpture/task7_1602636111226.png
 
-Img2= 
+Img2= https://github.com/arajput108/7rY-H4CK-M3/blob/main/03.)%20Searchlight%20-%20IMINT/vi.)%20Locate%20this%20sculpture/vDAqWCZ.png 
 
 Answer the questions below:
 
 i.) What is the name of this statue?
-Answer: sl{}
+Answer: sl{Rudolph the Chrome Nosed Reindeer}
 Hint: "Og når det er vind og sno Blir han så kald på nesen, Så den lyser som en glo."
 
 ii.) Who took this image?
-Ans: 
+Ans: sl{Kjersti Stensrud}
 Hint: If you know the location of the statue you may want to visitoslo
