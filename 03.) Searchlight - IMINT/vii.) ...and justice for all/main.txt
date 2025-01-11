@@ -10,4 +10,13 @@ if you want a unique view on how you perceive visual data.
 
 Answer the questions below:
 i.) What is the name of the character that the statue depicts?
-Ans: 
+Ans: sl{lady justice}
+Hint: Check the title of the challenge
+
+ii.) where is this statue located?
+Ans: sl{alexandria, virginia}
+Hint: the birthplace of a nation
+
+iii.) What is the name of the building opposite from this statue?
+Ans: sl{the westin alexandria old town}
+Hint: The quality of this establishment is shown with stars
