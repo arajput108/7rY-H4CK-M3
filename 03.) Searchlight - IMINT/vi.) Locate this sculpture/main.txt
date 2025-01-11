@@ -1,0 +1,14 @@
+This challenge will require you to apply some the techniques I have touched on so far: Scanning the 
+image for visual clues, reverse image searching and Google dorking. Tools should not be your primary 
+focus - don't underestimate how far you can get with dorking and scrolling search results. 
+
+
+Answer the questions below:
+
+i.) What is the name of this statue?
+Answer: sl{}
+Hint: "Og når det er vind og sno Blir han så kald på nesen, Så den lyser som en glo."
+
+ii.) Who took this image?
+Ans: 
+Hint: If you know the location of the statue you may want to visitoslo
