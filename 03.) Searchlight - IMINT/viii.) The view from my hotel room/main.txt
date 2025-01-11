@@ -1,0 +1,8 @@
+Geolocating videos aren't much different from geolocating images. A video is just a string of images, 
+usually played at 24 frames(or images) per second. In other words, a video will hold a whole lot more 
+images that can be analyzed, reversed and scrutinized by you. 
+Here's a good writeup by Nixintel on a tool called FFmpeg, which will help you extract the key images 
+from the video that you may need to solve this challenge. Download the attached video and follow 
+Nixintel's guide!
+
+You may have to apply other tools to solve this challenge as well! 
