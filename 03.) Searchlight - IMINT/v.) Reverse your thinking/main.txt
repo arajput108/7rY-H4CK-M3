@@ -16,10 +16,27 @@ Chrome: RevEye Reverse Image Search ( https://chromewebstore.google.com/search/R
 Firefox: RevEye Reverse Image Search
 
 Remember that changing the crop and the keywords for searching an image may yield completely different results. 
+Img file:- [ https://github.com/arajput108/7rY-H4CK-M3/blob/main/03.)%20Searchlight%20-%20IMINT/v.)%20Reverse%20your%20thinking/task6_1602348602115.jpg ]
 
 
-
-Answer the questions below
+Answer the questions below:- 
 
 i.) Which restaurant was this picture taken at?
-Ans: 
+Ans: sl{Katz's Deli}
+Hint: It has a famous nickname, which is what we're looking for
+
+ii.) What is the name of the Bon Appétit editor that worked 24 hours at this restaurant?
+Ans: sl{andrew knowlton}
+Hint: Look for a youtube video (simply search the editor name)
+
+
+
+
+
+
+
+<--------------Notes from Links-------------->
+Some better images search than the Google image [ images.google.com ]
+Yandex= https://yandex.com/images
+Bing= https://www.bing.com/images
+TinEye= https://tineye.com/
