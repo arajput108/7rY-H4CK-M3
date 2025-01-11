@@ -1,0 +1,13 @@
+This challenge is a step up in difficulty from the previous challenges and you shouldn't expect to solve this quickly, 
+especially if you are new to IMINT. While you can certainly apply the techniques and tools you've used to s far, this 
+challenge may force you to revise your thinking and your approach while you're working on solving this challenge. 
+I highly recommend watching this Ted talk by Amy Herman on visual intelligence - "A lesson on looking" 
+if you want a unique view on how you perceive visual data.
+
+
+
+
+
+Answer the questions below:
+i.) What is the name of the character that the statue depicts?
+Ans: 
