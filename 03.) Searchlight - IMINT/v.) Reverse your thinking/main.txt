@@ -1,0 +1,25 @@
+One of the methods for geolocating an image is to do an image reverse search. This means that we are 
+searching for the image itself online, and if the image has been indexed by search engines we may find 
+the exact image or we can do a visual search or crop search to help us find similar images. 
+
+ Aric Toler (https://x.com/AricToler) from Bellingcat has written a fantastic guide on reversing images, 
+ please read it here (https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/). 
+ OSINT Curious (https://www.osintcurio.us/) also has a write-up (https://www.osintcurio.us/2020/04/12/tips-and-tricks-on-reverse-image-searches/) 
+ on the topic that you should look through before attempting this challenge. 
+
+I recommend adding this extension to ease the workflow for when you find images online that you want to do an image reverse on:
+
+Addon description: "Perform a search by image. Choose between the image search engines Google, Bing, Yandex, TinEye and Baidu."
+
+Chrome: RevEye Reverse Image Search ( https://chromewebstore.google.com/search/RevEye%20Reverse%20Image%20Search?hl=no)
+
+Firefox: RevEye Reverse Image Search
+
+Remember that changing the crop and the keywords for searching an image may yield completely different results. 
+
+
+
+Answer the questions below
+
+i.) Which restaurant was this picture taken at?
+Ans: 
