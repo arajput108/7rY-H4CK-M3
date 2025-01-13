@@ -3,8 +3,9 @@ A. Bash is a scripting language that runs within the terminal on most Linux dist
    Shell scripts are a sequence of bash commands within a file, combined together to achieve more complex 
    tasks than simple one-liner and are especially useful when it comes to automating sysadmin tasks such as backups.
 
-This is a few things among many that you will learn in this room:
+Bash Sheet= https://devhints.io/bash
 
+This is a few things among many that you will learn in this room:
 Bash syntax
 Variables
 Using parameters
