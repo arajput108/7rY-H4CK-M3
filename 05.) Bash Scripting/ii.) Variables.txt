@@ -1,0 +1,3 @@
+Now we are moving onto variables,
+in bash these are quite simple and we create them like so:
+
