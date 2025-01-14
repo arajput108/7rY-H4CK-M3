@@ -9,6 +9,11 @@ https://tryhackme.com/r/leaderboards
 <----------------------------GOD------------------------------------>
 MrSeth6797[0xD][GOD]= https://tryhackme.com/r/p/MrSeth6797
 TeneBrae93[0xD][GOD]= https://tryhackme.com/r/p/TeneBrae93
+anon.techy111[0xD][LEGEND]= https://tryhackme.com/r/p/anon.techy111
+r1pp3r6944[0xD][LEGEND]= https://tryhackme.com/r/p/r1pp3r6944
+SuNnY[0xD][LEGEND]= https://tryhackme.com/r/p/SuNnY
+0xA98Y01[0xD][LEGEND]= https://tryhackme.com/r/p/0xA98Y01
+Swafox[0xD][LEGEND]= https://tryhackme.com/r/p/Swafox
 
 
 <----------------------------STAFFS------------------------------------>
@@ -57,10 +62,8 @@ ghoatvj[0xC][GURU]= https://tryhackme.com/r/p/ghoatvj
 addy04[0xB][MASTER]= https://tryhackme.com/r/p/addy04
 shriyac04[0x7]= https://tryhackme.com/r/p/shriyac04
 bee[0x1]= https://tryhackme.com/r/p/bee
-r1pp3r6944[0xD][LEGEND]= https://tryhackme.com/r/p/r1pp3r6944
-SuNnY[0xD][LEGEND]= https://tryhackme.com/r/p/SuNnY
+
 cyberpancho[0x9][OMNI]= https://tryhackme.com/r/p/cyberpancho
 0xV3nd3tt4[CYBER CRUSADER]= https://tryhackme.com/r/p/0xV3nd3tt4
 TheBrownPenguin[0x9][OMNI]= https://tryhackme.com/r/p/TheBrownPenguin
-0xA98Y01[0xD][LEGEND]= https://tryhackme.com/r/p/0xA98Y01
-Swafox[0xD][LEGEND]= https://tryhackme.com/r/p/Swafox
+
