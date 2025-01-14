@@ -14,8 +14,8 @@ r1pp3r6944[0xD][LEGEND]= https://tryhackme.com/r/p/r1pp3r6944
 SuNnY[0xD][LEGEND]= https://tryhackme.com/r/p/SuNnY
 0xA98Y01[0xD][LEGEND]= https://tryhackme.com/r/p/0xA98Y01
 Swafox[0xD][LEGEND]= https://tryhackme.com/r/p/Swafox
-
-
+zoobah[0xD][LEGEND]= https://tryhackme.com/r/p/zoobah
+Praddy[0xB][MASTER]= https://tryhackme.com/r/p/Praddy
 <----------------------------STAFFS------------------------------------>
 
 3.) am03bam4n[STAFF]= https://tryhackme.com/r/p/am03bam4n
