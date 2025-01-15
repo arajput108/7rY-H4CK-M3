@@ -66,4 +66,5 @@ bee[0x1]= https://tryhackme.com/r/p/bee
 cyberpancho[0x9][OMNI]= https://tryhackme.com/r/p/cyberpancho
 0xV3nd3tt4[CYBER CRUSADER]= https://tryhackme.com/r/p/0xV3nd3tt4
 TheBrownPenguin[0x9][OMNI]= https://tryhackme.com/r/p/TheBrownPenguin
+shadybebu[0xA][WIZARD]= https://tryhackme.com/r/p/shadybebu
 
