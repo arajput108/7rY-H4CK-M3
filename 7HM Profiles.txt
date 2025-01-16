@@ -1,3 +1,4 @@
+
 <-----------------------TRYHACKME----------------------------------->
 tryhackme= https://tryhackme.com/r/p/tryhackme 
 (All the rooms and resources are here)
@@ -18,6 +19,7 @@ zoobah[0xD][LEGEND]= https://tryhackme.com/r/p/zoobah
 livey.[0xD][LEGEND]= https://tryhackme.com/r/p/livey.
 Thnts[0xD][LEGEND]= https://tryhackme.com/r/p/Thnts
 PrangyaseniJena[0xD][LEGEND]= https://tryhackme.com/r/p/PrangyaseniJena
+ddugs[0xD][LEGEND]= https://tryhackme.com/r/p/ddugs
 Praddy[0xB][MASTER]= https://tryhackme.com/r/p/Praddy
 <----------------------------STAFFS------------------------------------>
 
