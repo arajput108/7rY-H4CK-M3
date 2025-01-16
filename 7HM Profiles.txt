@@ -15,6 +15,9 @@ SuNnY[0xD][LEGEND]= https://tryhackme.com/r/p/SuNnY
 0xA98Y01[0xD][LEGEND]= https://tryhackme.com/r/p/0xA98Y01
 Swafox[0xD][LEGEND]= https://tryhackme.com/r/p/Swafox
 zoobah[0xD][LEGEND]= https://tryhackme.com/r/p/zoobah
+livey.[0xD][LEGEND]= https://tryhackme.com/r/p/livey.
+Thnts[0xD][LEGEND]= https://tryhackme.com/r/p/Thnts
+PrangyaseniJena[0xD][LEGEND]= https://tryhackme.com/r/p/PrangyaseniJena
 Praddy[0xB][MASTER]= https://tryhackme.com/r/p/Praddy
 <----------------------------STAFFS------------------------------------>
 
@@ -37,7 +40,7 @@ str3g4tt4[STAFF]= https://tryhackme.com/r/p/str3g4tt4
 cmnatic[STAFF]= https://tryhackme.com/r/p/cmnatic
 rePl4stic[STAFF]= https://tryhackme.com/r/p/rePl4stic
 MartaStrzelec[STAFF]= https://tryhackme.com/r/p/MartaStrzelec
-
+melmols[STAFF]= https://tryhackme.com/r/p/melmols
 <----------------------------MASTER------------------------------------>
 1.) toxicat0r[0xB][MASTER]= https://tryhackme.com/r/p/toxicat0r
 
