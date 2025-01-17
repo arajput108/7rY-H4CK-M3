@@ -43,6 +43,7 @@ cmnatic[STAFF]= https://tryhackme.com/r/p/cmnatic
 rePl4stic[STAFF]= https://tryhackme.com/r/p/rePl4stic
 MartaStrzelec[STAFF]= https://tryhackme.com/r/p/MartaStrzelec
 melmols[STAFF]= https://tryhackme.com/r/p/melmols
+l000g1c[STAFF]= https://tryhackme.com/r/p/l000g1c
 <----------------------------MASTER------------------------------------>
 1.) toxicat0r[0xB][MASTER]= https://tryhackme.com/r/p/toxicat0r
 
