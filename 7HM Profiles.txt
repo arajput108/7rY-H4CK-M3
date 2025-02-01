@@ -75,3 +75,5 @@ TheBrownPenguin[0x9][OMNI]= https://tryhackme.com/r/p/TheBrownPenguin
 shadybebu[0xA][WIZARD]= https://tryhackme.com/r/p/shadybebu
 TheTitus[0xC][GURU]= https://tryhackme.com/r/p/TheTitus
 Manish777Das[0xD][LEGEND]= https://tryhackme.com/r/p/Manish777Das
+Aashir.Masood[0x7][ADEPT]= https://tryhackme.com/r/p/Aashir.Masood
+Mirson[0x9][MAGE]= https://tryhackme.com/r/p/Mirson
