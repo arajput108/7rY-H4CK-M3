@@ -1,9 +1,17 @@
-Answer the questions below:
+Answer the questions below based on this file [:
 
-Using the file you downloaded in Task 5, which IP starts and ends with "10"?
+a.) Using the file you downloaded in Task 5, which IP starts and ends with "10"?
+Ans- 10.10.2.10
+Detail- Use the operation "Extract IP addresses" and check the "IPv4" checkbox.
 
-10.10.2.10
-Correct Answer
-Hint
-What is the base64 encoded value of the string "Nice Room!"?
+b.) What is the base64 encoded value of the string "Nice Room!"?
+Ans- TmljZSBSb29tIQ==
 
+c.) What is the URL decoded value for https%3A%2F%2Ftryhackme%2Ecom%2Fr%2Froom%2Fcyberchefbasics ?
+Ans- https://tryhackme.com/r/room/cyberchefbasics
+
+d.) What is the datetime string for the Unix timestamp 1725151258?
+Ans- Sun 1 September 2024 00:40:58 UTC
+
+e.)  What is the Base85 decoded string of the value <+oue+DGm>Ap%u7?
+Ans- This is fun!
