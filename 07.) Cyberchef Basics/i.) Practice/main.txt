@@ -1,0 +1,21 @@
+Answer the questions below:
+
+a.) What is the hidden email address?
+Ans- hidden@hotmail.com
+Details- Use the operation "Extract email addresses".
+
+b.) What is the hidden IP address that ends in .232?
+Ans- 102.20.11.232
+Detail- Use the operation "Extract IP addresses".
+
+c.) Which domain address starts with the letter "T"?
+Ans- TryHackMe.com
+Detail- Use the operation "Extract domains".
+
+d.) What is the binary value of the decimal number 78?
+Ans- 01001110
+Detail- Combine the operations "From Decimal" and "To Binary".
+
+e.) What is the URL encoded value of https://tryhackme.com/r/careers?
+Ans- https://tryhackme.com/r/careers
+Detail- Use the "URL Encode" operation with the "Encode all special chars" checkbox enabled.
