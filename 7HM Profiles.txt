@@ -77,3 +77,6 @@ TheTitus[0xC][GURU]= https://tryhackme.com/r/p/TheTitus
 Manish777Das[0xD][LEGEND]= https://tryhackme.com/r/p/Manish777Das
 Aashir.Masood[0x7][ADEPT]= https://tryhackme.com/r/p/Aashir.Masood
 Mirson[0x9][MAGE]= https://tryhackme.com/r/p/Mirson
+oxitocin[0xD][LEGEND]= https://tryhackme.com/p/oxitocin
+xElessaway[0x8][HACKER]= https://tryhackme.com/p/xElessaway
+XPl0Riz0n[0x9][MAGE]= https://tryhackme.com/p/XPl0Riz0n
