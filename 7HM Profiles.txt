@@ -89,3 +89,4 @@ theblank7[0xB][MASTER]= https://tryhackme.com/p/theblank7
 battleoverflow[0xD][LEGEND]= https://tryhackme.com/p/battleoverflow
 1.day[0xD][LEGEND]= https://tryhackme.com/p/1.day
 sumanrox[0xD][LEGEND]= https://tryhackme.com/p/sumanrox
+indrajitjeeva[0xD][LEGEND]= https://tryhackme.com/p/indrajitjeeva
