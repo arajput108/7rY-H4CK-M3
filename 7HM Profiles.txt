@@ -92,3 +92,4 @@ sumanrox[0xD][LEGEND]= https://tryhackme.com/p/sumanrox
 indrajitjeeva[0xD][LEGEND]= https://tryhackme.com/p/indrajitjeeva
 Abu335[0xE][GUARDIAN]= https://tryhackme.com/p/Abu335
 battleoverflow[0xD][LEGEND]= https://tryhackme.com/p/battleoverflow
+Thnts[0xD][LEGEND]= https://tryhackme.com/p/Thnts
