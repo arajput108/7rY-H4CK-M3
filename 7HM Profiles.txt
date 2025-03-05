@@ -96,3 +96,4 @@ Thnts[0xD][LEGEND]= https://tryhackme.com/p/Thnts
 Encod3d[0x10][SAGE]= https://tryhackme.com/p/Encod3d 
 V4run[0xF][TITAN]= https://tryhackme.com/p/V4run
 xxpentestxx[0xE][GUARDIAN]= https://tryhackme.com/p/xxpentestxx
+Mr.Eddie[0xD][LEGEND]= https://tryhackme.com/p/Mr.Eddie
