@@ -101,3 +101,4 @@ XpL0itX[0xD][LEGEND]= https://tryhackme.com/p/XpL0itX
 sn0xsharma[0xF][TITAN]= https://tryhackme.com/p/sn0xsharma
 concatenate[0xD][LEGEND]= https://tryhackme.com/p/concatenate
 DinokLaptop[0xD][LEGEND]= https://tryhackme.com/p/DinokLaptop
+B.T.P[0x9][MAGE]= https://tryhackme.com/p/B.T.P
