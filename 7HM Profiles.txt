@@ -100,3 +100,4 @@ Mr.Eddie[0xD][LEGEND]= https://tryhackme.com/p/Mr.Eddie
 XpL0itX[0xD][LEGEND]= https://tryhackme.com/p/XpL0itX
 sn0xsharma[0xF][TITAN]= https://tryhackme.com/p/sn0xsharma
 concatenate[0xD][LEGEND]= https://tryhackme.com/p/concatenate
+DinokLaptop[0xD][LEGEND]= https://tryhackme.com/p/DinokLaptop
