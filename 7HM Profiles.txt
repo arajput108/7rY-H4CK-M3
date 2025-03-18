@@ -104,3 +104,4 @@ DinokLaptop[0xD][LEGEND]= https://tryhackme.com/p/DinokLaptop
 B.T.P[0x9][MAGE]= https://tryhackme.com/p/B.T.P
 Phix0rit[0xC][GURU]= https://tryhackme.com/p/Phix0rit
 h3llh0und[0xF][TITAN]= https://tryhackme.com/p/h3llh0und
+WittyAle[0x12][SHOGUN]= https://www.linkedin.com/in/aakash-rajput-064b361b4/
