@@ -1,18 +1,73 @@
 
 <-----------------------TRYHACKME----------------------------------->
-tryhackme= https://tryhackme.com/r/p/tryhackme 
+1.) tryhackme= https://tryhackme.com/r/p/tryhackme 
 (All the rooms and resources are here)
 
-https://tryhackme.com/r/leaderboards
-(All users here)
+2.) THM Base Room= https://tryhackme.com/r/path/outline/cybersecurity101?utm_source=cio&utm_medium=email&utm_campaign=cs101
+
+3.) https://tryhackme.com/r/leaderboards (All users here)
 
 
-<----------------------------GOD------------------------------------>
-MrSeth6797[0xD][GOD]= https://tryhackme.com/r/p/MrSeth6797
-TeneBrae93[0xD][GOD]= https://tryhackme.com/r/p/TeneBrae93
 
 
-<----------------------------LEGEND------------------------------------>
+<----------------------------NEOPHYTE [0x1]---------------------------->
+bee[0x1]= https://tryhackme.com/r/p/bee
+
+
+<----------------------------VISIONARY [0x5]---------------------------->
+stregatta[0x5]= https://tryhackme.com/r/p/stregatta
+
+
+<----------------------------VOYAGER [0x6]------------------------------>
+vettrivel[0x6]= https://tryhackme.com/r/p/vettrivel
+josemlwdf[0x6]= https://tryhackme.com/r/p/josemlwdf
+
+
+<----------------------------ADEPT [0x7]-------------------------------->
+DarkStar7471[0x7]= https://tryhackme.com/r/p/DarkStar7471
+Aashir.Masood[0x7][ADEPT]= https://tryhackme.com/r/p/Aashir.Masood
+shriyac04[0x7]= https://tryhackme.com/r/p/shriyac04
+
+
+<----------------------------HACKER [0x8]---------------------------->
+1.) dcdavidlee[0x8]= https://tryhackme.com/r/p/dcdavidlee
+2.) nahamsec[0x8][HACKER]= https://tryhackme.com/r/p/nahamsec
+xElessaway[0x8][HACKER]= https://tryhackme.com/p/xElessaway
+
+
+<--------------------------MAGE[0x9]--------------------------------->
+B.T.P[0x9][MAGE]= https://tryhackme.com/p/B.T.P
+Mirson[0x9][MAGE]= https://tryhackme.com/r/p/Mirson
+h4ck3rgk[0x9][MAGE]= https://tryhackme.com/p/h4ck3rgk
+XPl0Riz0n[0x9][MAGE]= https://tryhackme.com/p/XPl0Riz0n
+TheBrownPenguin[0x9][OMNI]= https://tryhackme.com/r/p/TheBrownPenguin
+cyberpancho[0x9][OMNI]= https://tryhackme.com/r/p/cyberpancho
+juikalan[0x9][OMNI]= https://tryhackme.com/r/p/juikalan
+theritam[0x9][OMNI]=  https://tryhackme.com/r/p/theritam
+
+
+<---------------------------WIZARD [0xA]------------------------------>
+shadybebu[0xA][WIZARD]= https://tryhackme.com/r/p/shadybebu
+
+
+<---------------------------MASTER [0xB]------------------------------>
+1.) toxicat0r[0xB][MASTER]= https://tryhackme.com/r/p/toxicat0r
+Praddy[0xB][MASTER]= https://tryhackme.com/r/p/Praddy
+theblank7[0xB][MASTER]= https://tryhackme.com/p/theblank7
+little.jerry[0xB][MASTER]= https://tryhackme.com/p/little.jerry
+addy04[0xB][MASTER]= https://tryhackme.com/r/p/addy04
+
+
+<-----------------------------GURU [0xC]------------------------------->
+zeno.zz[0xC][GURU]= https://tryhackme.com/p/zeno.zz
+Thehackr[0xC][GURU]= https://tryhackme.com/r/p/Thehackr
+Phix0rit[0xC][GURU]= https://tryhackme.com/p/Phix0rit
+TheTitus[0xC][GURU]= https://tryhackme.com/r/p/TheTitus
+[Kalighost404[0xC][GURU]= https://tryhackme.com/r/p/Kalighost404
+ghoatvj[0xC][GURU]= https://tryhackme.com/r/p/ghoatvj
+
+
+<----------------------------LEGEND [0xD]------------------------------>
 anon.techy111[0xD][LEGEND]= https://tryhackme.com/r/p/anon.techy111
 r1pp3r6944[0xD][LEGEND]= https://tryhackme.com/r/p/r1pp3r6944
 SuNnY[0xD][LEGEND]= https://tryhackme.com/r/p/SuNnY
@@ -23,14 +78,62 @@ livey.[0xD][LEGEND]= https://tryhackme.com/r/p/livey.
 Thnts[0xD][LEGEND]= https://tryhackme.com/r/p/Thnts
 PrangyaseniJena[0xD][LEGEND]= https://tryhackme.com/r/p/PrangyaseniJena
 ddugs[0xD][LEGEND]= https://tryhackme.com/r/p/ddugs
-Praddy[0xB][MASTER]= https://tryhackme.com/r/p/Praddy
 Manish777Das[0xD][LEGEND]= https://tryhackme.com/r/p/Manish777Das
 battleoverflow[0xD][LEGEND]= https://tryhackme.com/p/battleoverflow
 oxitocin[0xD][LEGEND]= https://tryhackme.com/p/oxitocin
+CyberGupta[0xD][LEGEND]= https://tryhackme.com/p/CyberGupta
+CyberForgeSmith[0xD][LEGEND]= https://tryhackme.com/p/CyberForgeSmith
+concatenate[0xD][LEGEND]= https://tryhackme.com/p/concatenate
+DinokLaptop[0xD][LEGEND]= https://tryhackme.com/p/DinokLaptop
+Mr.Eddie[0xD][LEGEND]= https://tryhackme.com/p/Mr.Eddie
+XpL0itX[0xD][LEGEND]= https://tryhackme.com/p/XpL0itX
+battleoverflow[0xD][LEGEND]= https://tryhackme.com/p/battleoverflow
+Thnts[0xD][LEGEND]= https://tryhackme.com/p/Thnts
+1.day[0xD][LEGEND]= https://tryhackme.com/p/1.day
+sumanrox[0xD][LEGEND]= https://tryhackme.com/p/sumanrox
+indrajitjeeva[0xD][LEGEND]= https://tryhackme.com/p/indrajitjeeva
+Swafox[0xD][LEGEND]= https://tryhackme.com/p/Swafox
+MrSeth6797[0xD][LEGEND]= https://tryhackme.com/r/p/MrSeth6797
+TeneBrae93[0xD][LEGEND]= https://tryhackme.com/r/p/TeneBrae93
+
+
+<----------------------------GUAARDIAN [0xE]---------------------------->
+xxpentestxx[0xE][GUARDIAN]= https://tryhackme.com/p/xxpentestxx
+Abu335[0xE][GUARDIAN]= https://tryhackme.com/p/Abu335
+
+
+<----------------------------TITAN [0xF]--------------------------------->
+sn0xsharma[0xF][TITAN]= https://tryhackme.com/p/sn0xsharma
+V4run[0xF][TITAN]= https://tryhackme.com/p/V4run
+h3llh0und[0xF][TITAN]= https://tryhackme.com/p/h3llh0und
+
+
+<----------------------------SAGE [0x10]-------------------------------->
+Encod3d[0x10][SAGE]= https://tryhackme.com/p/Encod3d 
+
+
+<----------------------------VANGUARD [0x11]---------------------------->
+
+
+
+<----------------------------SHOGUN [0x12]---------------------------->
+WittyAle[0x12][SHOGUN]= https://tryhackme.com/p/WittyAle
+
+
+<----------------------------ASCENDED [0x13]---------------------------->
+
+<----------------------------MYTHIC [0x14]---------------------------->
+
+<----------------------------ETERNAL [0x15]---------------------------->
+
+
+<----------------------------OTHERs------------------------------------>
+Chevalier[BUG HUNTER]= https://tryhackme.com/r/p/Chevalier
+SuitGuy[BUG HUNTER]= https://tryhackme.com/p/SuitGuy
+0xV3nd3tt4[CYBER CRUSADER]= https://tryhackme.com/r/p/0xV3nd3tt4
 
 
 <----------------------------STAFFS------------------------------------>
-
 3.) am03bam4n[STAFF]= https://tryhackme.com/r/p/am03bam4n
 2.) SecurityNomad[STAFF]= https://tryhackme.com/r/p/SecurityNomad
 1.) cmnatic[STAFF]= https://tryhackme.com/r/p/cmnatic
@@ -52,67 +155,4 @@ rePl4stic[STAFF]= https://tryhackme.com/r/p/rePl4stic
 MartaStrzelec[STAFF]= https://tryhackme.com/r/p/MartaStrzelec
 melmols[STAFF]= https://tryhackme.com/r/p/melmols
 l000g1c[STAFF]= https://tryhackme.com/r/p/l000g1c
-<----------------------------MASTER------------------------------------>
-1.) toxicat0r[0xB][MASTER]= https://tryhackme.com/r/p/toxicat0r
-
-
-<----------------------------[0x8] HACKER------------------------------------>
-
-1.) dcdavidlee[0x8]= https://tryhackme.com/r/p/dcdavidlee
-2.) nahamsec[0x8][HACKER]= https://tryhackme.com/r/p/nahamsec
-
-<----------------------------Rest------------------------------------>
-Chevalier[BUG HUNTER]= https://tryhackme.com/r/p/Chevalier
-theritam[0x9][OMNI]=  https://tryhackme.com/r/p/theritam
-THM Base Room=        https://tryhackme.com/r/path/outline/cybersecurity101?utm_source=cio&utm_medium=email&utm_campaign=cs101
-Thehackr[0xC][GURU]= https://tryhackme.com/r/p/Thehackr
-vettrivel[0x6]= https://tryhackme.com/r/p/vettrivel
-DarkStar7471[0x7]= https://tryhackme.com/r/p/DarkStar7471
-josemlwdf[0x6]= https://tryhackme.com/r/p/josemlwdf
-stregatta[0x5]= https://tryhackme.com/r/p/stregatta
-juikalan[0x9][OMNI]= https://tryhackme.com/r/p/juikalan
-[Kalighost404[0xC][GURU]= https://tryhackme.com/r/p/Kalighost404
-ghoatvj[0xC][GURU]= https://tryhackme.com/r/p/ghoatvj
-addy04[0xB][MASTER]= https://tryhackme.com/r/p/addy04
-shriyac04[0x7]= https://tryhackme.com/r/p/shriyac04
-bee[0x1]= https://tryhackme.com/r/p/bee
-
-cyberpancho[0x9][OMNI]= https://tryhackme.com/r/p/cyberpancho
-0xV3nd3tt4[CYBER CRUSADER]= https://tryhackme.com/r/p/0xV3nd3tt4
-TheBrownPenguin[0x9][OMNI]= https://tryhackme.com/r/p/TheBrownPenguin
-shadybebu[0xA][WIZARD]= https://tryhackme.com/r/p/shadybebu
-TheTitus[0xC][GURU]= https://tryhackme.com/r/p/TheTitus
-
-Aashir.Masood[0x7][ADEPT]= https://tryhackme.com/r/p/Aashir.Masood
-Mirson[0x9][MAGE]= https://tryhackme.com/r/p/Mirson
-xElessaway[0x8][HACKER]= https://tryhackme.com/p/xElessaway
-XPl0Riz0n[0x9][MAGE]= https://tryhackme.com/p/XPl0Riz0n
-zeno.zz[0xC][GURU]= https://tryhackme.com/p/zeno.zz
-h4ck3rgk[0x9][MAGE]= https://tryhackme.com/p/h4ck3rgk
-little.jerry[0xB][MASTER]= https://tryhackme.com/p/little.jerry
-SuitGuy[BUG HUNTER]= https://tryhackme.com/p/SuitGuy
-Swafox[0xD][LEGEND]= https://tryhackme.com/p/Swafox
-theblank7[0xB][MASTER]= https://tryhackme.com/p/theblank7
-
-1.day[0xD][LEGEND]= https://tryhackme.com/p/1.day
-sumanrox[0xD][LEGEND]= https://tryhackme.com/p/sumanrox
-indrajitjeeva[0xD][LEGEND]= https://tryhackme.com/p/indrajitjeeva
-Abu335[0xE][GUARDIAN]= https://tryhackme.com/p/Abu335
-battleoverflow[0xD][LEGEND]= https://tryhackme.com/p/battleoverflow
-Thnts[0xD][LEGEND]= https://tryhackme.com/p/Thnts
-Encod3d[0x10][SAGE]= https://tryhackme.com/p/Encod3d 
-V4run[0xF][TITAN]= https://tryhackme.com/p/V4run
-xxpentestxx[0xE][GUARDIAN]= https://tryhackme.com/p/xxpentestxx
-Mr.Eddie[0xD][LEGEND]= https://tryhackme.com/p/Mr.Eddie
-XpL0itX[0xD][LEGEND]= https://tryhackme.com/p/XpL0itX
-sn0xsharma[0xF][TITAN]= https://tryhackme.com/p/sn0xsharma
-concatenate[0xD][LEGEND]= https://tryhackme.com/p/concatenate
-DinokLaptop[0xD][LEGEND]= https://tryhackme.com/p/DinokLaptop
-B.T.P[0x9][MAGE]= https://tryhackme.com/p/B.T.P
-CyberForgeSmith[0xD][LEGEND]= https://tryhackme.com/p/CyberForgeSmith
-
-Phix0rit[0xC][GURU]= https://tryhackme.com/p/Phix0rit
-h3llh0und[0xF][TITAN]= https://tryhackme.com/p/h3llh0und
-WittyAle[0x12][SHOGUN]= https://www.linkedin.com/in/aakash-rajput-064b361b4/
-CyberGupta[0xD][LEGEND]= https://tryhackme.com/p/CyberGupta
 
