@@ -18,10 +18,14 @@ bee[0x1]= https://tryhackme.com/r/p/bee
 stregatta[0x5]= https://tryhackme.com/r/p/stregatta
 
 
+
 <----------------------------VOYAGER [0x6]------------------------------>
 vettrivel[0x6]= https://tryhackme.com/r/p/vettrivel
 josemlwdf[0x6]= https://tryhackme.com/r/p/josemlwdf
-
+mkara[0x6]= https://tryhackme.com/p/mkara
+KabylieBoys09[0x6]= https://tryhackme.com/p/KabylieBoys09
+mo.bud[0x6]= https://tryhackme.com/p/mo.bud
+Frh[0x6]= https://tryhackme.com/p/Frh
 
 <----------------------------ADEPT [0x7]-------------------------------->
 DarkStar7471[0x7]= https://tryhackme.com/r/p/DarkStar7471
@@ -33,7 +37,9 @@ shriyac04[0x7]= https://tryhackme.com/r/p/shriyac04
 1.) dcdavidlee[0x8]= https://tryhackme.com/r/p/dcdavidlee
 2.) nahamsec[0x8][HACKER]= https://tryhackme.com/r/p/nahamsec
 xElessaway[0x8][HACKER]= https://tryhackme.com/p/xElessaway
-
+Nameless0ne[0x8][HACKER]= https://tryhackme.com/p/Nameless0ne
+MR.ShadowMan[0x8][HACKER]= https://tryhackme.com/p/MR.ShadowMan
+cuddest[0x8][HACKER]=https://tryhackme.com/p/cuddest
 
 <--------------------------MAGE[0x9]--------------------------------->
 B.T.P[0x9][MAGE]= https://tryhackme.com/p/B.T.P
@@ -151,8 +157,14 @@ h4sh3m00[STAFF]= https://tryhackme.com/r/p/h4sh3m00
 l000g1c[STAFF]= https://tryhackme.com/r/p/l000g1c
 str3g4tt4[STAFF]= https://tryhackme.com/r/p/str3g4tt4
 cmnatic[STAFF]= https://tryhackme.com/r/p/cmnatic
+ar33zy[STAFF]= https://tryhackme.com/p/ar33zy
 rePl4stic[STAFF]= https://tryhackme.com/r/p/rePl4stic
+DrGonz0[STAFF]= https://tryhackme.com/p/DrGonz0
 MartaStrzelec[STAFF]= https://tryhackme.com/r/p/MartaStrzelec
 melmols[STAFF]= https://tryhackme.com/r/p/melmols
+melmols[STAFF]= https://tryhackme.com/p/h4sh3m00
+
+
+
 l000g1c[STAFF]= https://tryhackme.com/r/p/l000g1c
 
