@@ -112,7 +112,7 @@ Abu335[0xE][GUARDIAN]= https://tryhackme.com/p/Abu335
 sn0xsharma[0xF][TITAN]= https://tryhackme.com/p/sn0xsharma
 V4run[0xF][TITAN]= https://tryhackme.com/p/V4run
 h3llh0und[0xF][TITAN]= https://tryhackme.com/p/h3llh0und
-
+Dompriv[0xF][TITAN]= https://tryhackme.com/p/Dompriv
 
 <----------------------------SAGE [0x10]-------------------------------->
 Encod3d[0x10][SAGE]= https://tryhackme.com/p/Encod3d 
