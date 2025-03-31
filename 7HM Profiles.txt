@@ -106,6 +106,7 @@ TeneBrae93[0xD][LEGEND]= https://tryhackme.com/r/p/TeneBrae93
 <----------------------------GUAARDIAN [0xE]---------------------------->
 xxpentestxx[0xE][GUARDIAN]= https://tryhackme.com/p/xxpentestxx
 Abu335[0xE][GUARDIAN]= https://tryhackme.com/p/Abu335
+Bluez8866[0xE][GUARDIAN]= https://tryhackme.com/p/Bluez8866
 
 
 <----------------------------TITAN [0xF]--------------------------------->
