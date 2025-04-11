@@ -40,6 +40,9 @@ xElessaway[0x8][HACKER]= https://tryhackme.com/p/xElessaway
 Nameless0ne[0x8][HACKER]= https://tryhackme.com/p/Nameless0ne
 MR.ShadowMan[0x8][HACKER]= https://tryhackme.com/p/MR.ShadowMan
 cuddest[0x8][HACKER]=https://tryhackme.com/p/cuddest
+DPSecurity[0x8][HACKER]= https://tryhackme.com/p/DPSecurity
+nidhikathayat[0x8][HACKER]= https://tryhackme.com/p/nidhikathayat
+
 
 <--------------------------MAGE[0x9]--------------------------------->
 B.T.P[0x9][MAGE]= https://tryhackme.com/p/B.T.P
