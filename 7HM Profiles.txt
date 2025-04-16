@@ -104,6 +104,7 @@ indrajitjeeva[0xD][LEGEND]= https://tryhackme.com/p/indrajitjeeva
 Swafox[0xD][LEGEND]= https://tryhackme.com/p/Swafox
 MrSeth6797[0xD][LEGEND]= https://tryhackme.com/r/p/MrSeth6797
 TeneBrae93[0xD][LEGEND]= https://tryhackme.com/r/p/TeneBrae93
+orpheusdark26[0xD][LEGEND]= https://tryhackme.com/p/orpheusdark26
 
 
 <----------------------------GUAARDIAN [0xE]---------------------------->
